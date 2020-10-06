@@ -1,0 +1,106 @@
+[
+  {
+    "icon": "FaFileAlt",
+    "display": "Page Management",
+    "uri": "/page-management",
+    "subs": [
+      {
+        "display": "Pages",
+        "uri": "/page-management/listing"
+      },
+      {
+        "display": "New Pages",
+        "uri": "/page-management/new"
+      }
+    ]
+  },
+  {
+    "icon": "FaCopy",
+    "display": "Product Management",
+    "uri": "/product-management",
+    "subs": [
+      {
+        "display": "Products",
+        "uri": "/product-management/products/listing"
+      },
+      {
+        "display": "New Product",
+        "uri": "/product-management/products/new"
+      }
+    ]
+  },
+  {
+    "icon": "FaUsers",
+    "display": "Staff Management",
+    "uri": "/staff-management",
+    "subs": [
+      {
+        "display": "Staff Listing",
+        "uri": "/staff-management/listing"
+      },
+      {
+        "display": "New Staff Member",
+        "uri": "/staff-management/new"
+      }
+    ]
+  },
+  {
+    "icon": "FaTruck",
+    "display": "Supplier Management",
+    "uri": "/suppliers-management",
+    "subs": [
+      {
+        "display": "Suppliers",
+        "uri": "/suppliers-management/listing"
+      },
+      {
+        "display": "New Supplier",
+        "uri": "/suppliers-management/new"
+      }
+    ]
+  },
+
+  {
+    "icon": "FaCogs",
+    "display": "System Settings",
+    "uri": "/system-settings",
+    "subs": [
+      { "display": "Contact Settings", "uri": "/system-settings/contact" },
+      {
+        "display": "Payment Gateways",
+        "uri": "/system-settings/payment-gateways"
+      },
+      {
+        "display": "Shipping Modules",
+        "uri": "/system-settings/shipping-modules"
+      }
+    ]
+  },
+
+  {
+    "icon": "FaCog",
+    "display": "Template Settings",
+    "uri": "/template-settings",
+    "subs": [
+      { "display": "Logo", "uri": "/template-settings/logo" },
+      { "display": "General Settings", "uri": "/template-settings/general" },
+      { "display": "Contact Settings", "uri": "/template-settings/contact" },
+      {
+        "display": "Default Menus",
+        "uri": "/template-settings/default-menus"
+      },
+      {
+        "display": "Hours of Operations",
+        "uri": "/template-settings/hours"
+      },
+      {
+        "display": "Image Scroller",
+        "uri": "/template-settings/image-scroller"
+      },
+      {
+        "display": "Featured Products",
+        "uri": "/template-settings/featured-products"
+      }
+    ]
+  }
+]
